@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Iam Ian Banda.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ian Banda.
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ianbanda2?style=social)
@@ -7,6 +7,15 @@ This is my repository for all the projects I have worked on.
 
 ---
 💻 Toolbox
+
+---
+📘 Blog Articles
+
+[Coding from zero](https://www.gov.uk/government/news/coding-from-zero)
+
+---
+
+
 
 <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python logo" width="50" height="50" /> <img src=https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg alt="juypter logo" width="50" height="50" /> <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg alt="git logo" width="50" height="50" />
 
