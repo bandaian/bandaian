@@ -5,6 +5,11 @@
 
 This is my repository for all the projects I have worked on.
 
+---
+💻 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R logo" width="50" height="50" />
+
 <!--
 **bandaian/bandaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
