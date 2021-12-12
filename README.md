@@ -6,7 +6,7 @@
 This is my repository for all the projects I have worked on.
 
 ---
-💻 Toolbox
+💻 Tools I use:
 
 ---
 📘 Blog Articles
