@@ -15,7 +15,7 @@ This is my repository for all the projects I have worked on.
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandaian&langs_count=8&layout=compact&theme=yeblu&show_icons=true)](https://github.com/bandaian/github-readme-stats)
 
 <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python logo" width="50" height="50" /> <img src=https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg alt="juypter logo" width="50" height="50" /> <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg alt="git logo" width="50" height="50" />
 
