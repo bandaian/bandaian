@@ -3,6 +3,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ianbanda2?style=social)
 
+This is my repository for all the projects I have worked on.
+
 <!--
 **bandaian/bandaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
